@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-image
+Pillow
+tensorflow
+scikit-learn
+natsort
+ipywidgets
+ipython

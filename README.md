@@ -35,21 +35,33 @@ Train ML and CNN models using preprocessed ECG images.
 3. Evaluation:
 Assess model performance using metrics like Accuracy, Precision, Recall, and F1-Score.
 
-## Project Structure
-.  
-.  
-├── Data_Preprocessing/  
-│   ├── Data_original/  
-│   │   ├── Infected  
-│   │   ├── Normal  
-│   └── Final_1D_images/  
-│   |   ├── final_1D.csv  
-│   └── processed_contours_images/  
-│       ├── Infected  
-│       ├── Normal  
-└── colabs/  
-    ├── Cardiovascular_Detection_DL.ipynb  
-    └── Cardiovascular_Detection_ML.ipynb  
+## Project Setup
+
+To set up this project locally, follow these steps:  
+
+### Step 1: Clone the Repository  
+
+
+```bash
+git clone https://github.com/hitikadwani/CardioVascular_Detection.git
+```
+
+### Step 2: Navigate to the Project Directory
+```bash
+cd CardioVascular_Detection 
+``` 
+
+### Step 3: Install Required Packages
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4: Run Jupyter Notebooks
+1. Open Jupyter Notebook:
+2. In Jupyter Notebook, navigate to the notebooks folder.
+3. Open and run Cardiovascular_Detection_DL.ipynb for the deep learning model or Cardiovascular_Detection_ML.ipynb for the machine learning model.
+
+
 
 ## Conclusion
 
