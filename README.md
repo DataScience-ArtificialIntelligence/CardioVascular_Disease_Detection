@@ -63,7 +63,7 @@ Future enhancements include extending the model to detect multiple heart conditi
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request to the [Cardiovascular_Detection repository](https://github.com/hitikadwani/CardioVascular_Detection.git).
+Contributions are welcome! Please feel free to submit a Pull Request to the [Cardiovascular_Detection repository](https://github.com/DataScience-ArtificialIntelligence/CardioVascular_Disease_Detection.git).
 
 ## Links  
 
