@@ -7,19 +7,7 @@ SURYANSH AYUSH - 22BDS057
 
 ## Overview
 This project implements a system for cardiovascular disease detection using ECG images. By leveraging advanced Machine Learning (ML) and Deep Learning (DL) techniques, including Convolutional Neural Networks (CNNs), the system automates early diagnosis and improves the accuracy of heart disease detection.
-## Features
 
-1. Preprocessing Techniques:
-    Grayscale conversion.
-    Extraction of 12-lead ECG signals.
-    Background noise removal.
-    Signal isolation via contour techniques.
-2. Machine Learning Models:
-    Logistic Regression
-    K-Nearest Neighbors (KNN)
-    Support Vector Machines (SVM)
-3. Deep Learning Model:
-    Convolutional Neural Network (CNN) with state-of-the-art      layers for feature extraction and classification.
 
 ## Dataset
 
@@ -80,6 +68,6 @@ Contributions are welcome! Please feel free to submit a Pull Request to the [Car
 ## Links  
 
 [Link to report](https://drive.google.com/file/d/1fbhN-4j4a9EZeFtVn4-A_sTueuMMswga/view?usp=drive_link)  
-[Link to PPT](https://docs.google.com/presentation/d/1ajg00v7bxsgj3RrIOb4QwV1slYUbII_s/edit?usp=sharing&ouid=116995870568451359349&rtpof=true&sd=true)
-
+[Link to PPT](https://docs.google.com/presentation/d/1ajg00v7bxsgj3RrIOb4QwV1slYUbII_s/edit?usp=sharing&ouid=116995870568451359349&rtpof=true&sd=true)  
+[Link to Video](https://drive.google.com/file/d/1ru4gVayziGQFJndI09Zoase68xKsT3wS/view)
 
