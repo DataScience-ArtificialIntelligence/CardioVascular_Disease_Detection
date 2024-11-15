@@ -1,13 +1,13 @@
-## Cardiovascular Disease Detection Using Deep Learning and Machine Learning Models on ECG Images
-# Group Members
+# Cardiovascular Disease Detection Using Deep Learning and Machine Learning Models on ECG Images
+## Group Members
 HITIK ADWANI - 22BDS029  
 LAKSHYA BABEL - 222BDS033  
 ABHIJIT SINGH - 22BDS054  
 SURYANSH AYUSH - 22BDS057
 
-# Overview
+## Overview
 This project implements a system for cardiovascular disease detection using ECG images. By leveraging advanced Machine Learning (ML) and Deep Learning (DL) techniques, including Convolutional Neural Networks (CNNs), the system automates early diagnosis and improves the accuracy of heart disease detection.
-# Features
+## Features
 
 1. Preprocessing Techniques:
     Grayscale conversion.
@@ -21,11 +21,11 @@ This project implements a system for cardiovascular disease detection using ECG 
 3. Deep Learning Model:
     Convolutional Neural Network (CNN) with state-of-the-art      layers for feature extraction and classification.
 
-# Dataset
+## Dataset
 
 The dataset contains ECG images representing both normal and abnormal heart activities. It is sourced from [Mendeley](https://data.mendeley.com/datasets/gwbz3fsgp8/2).
 
-# Methodology
+## Methodology
 1. Data Preprocessing:
 Convert ECG images to grayscale.
 Apply Gaussian filtering and thresholding.
