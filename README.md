@@ -11,7 +11,7 @@ This project implements a system for cardiovascular disease detection using ECG 
 
 ## Dataset
 
-The dataset contains ECG images representing both normal and abnormal heart activities. It is sourced from [Mendeley](https://data.mendeley.com/datasets/gwbz3fsgp8/2).
+The dataset contains ECG images representing both normal and abnormal heart activities. It is sourced from [Mendeley data](https://data.mendeley.com/datasets/gwbz3fsgp8/2).
 
 ## Methodology
 1. Data Preprocessing:
