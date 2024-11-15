@@ -36,8 +36,8 @@ Train ML and CNN models using preprocessed ECG images.
 Assess model performance using metrics like Accuracy, Precision, Recall, and F1-Score.
 
 ## Project Structure
-.
-.
+.  
+.  
 ├── Data_Preprocessing/  
 │   ├── Data_original/  
 │   │   ├── Infected  
