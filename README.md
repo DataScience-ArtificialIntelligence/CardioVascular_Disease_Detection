@@ -35,6 +35,15 @@ Train ML and CNN models using preprocessed ECG images.
 3. Evaluation:
 Assess model performance using metrics like Accuracy, Precision, Recall, and F1-Score.
 
+## Conclusion
+
+This project demonstrates the potential of leveraging Machine Learning and Deep Learning models for early detection of cardiovascular diseases using ECG images. The proposed system achieved high accuracy across multiple models, with the CNN model demonstrating superior performance in both training (98% accuracy) and validation (92% accuracy). 
+
+The system's automated approach offers a fast, reliable, and scalable solution for heart disease detection, reducing dependency on manual ECG interpretation. The study also highlights the importance of preprocessing techniques like grayscale conversion and signal extraction to improve model performance.
+
+Future enhancements include extending the model to detect multiple heart conditions, further optimizing feature extraction, and improving overall accuracy. These advancements could make the system even more applicable in clinical settings, particularly for telemedicine and remote healthcare solutions.
+
+
 
 # Contributing
 
