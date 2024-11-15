@@ -31,7 +31,7 @@ To set up this project locally, follow these steps:
 
 
 ```bash
-git clone https://github.com/hitikadwani/CardioVascular_Detection.git
+git clone https://github.com/DataScience-ArtificialIntelligence/CardioVascular_Disease_Detection.git
 ```
 
 ### Step 2: Navigate to the Project Directory
@@ -67,7 +67,7 @@ Contributions are welcome! Please feel free to submit a Pull Request to the [Car
 
 ## Links  
 
-[Link to report](https://drive.google.com/file/d/1fbhN-4j4a9EZeFtVn4-A_sTueuMMswga/view?usp=drive_link)  
+[Link to report](https://drive.google.com/file/d/1g05qLyQw4gQHIu3E1OYCPLxhudNLyqiu/view?usp=sharing)  
 [Link to PPT](https://docs.google.com/presentation/d/1ajg00v7bxsgj3RrIOb4QwV1slYUbII_s/edit?usp=sharing&ouid=116995870568451359349&rtpof=true&sd=true)  
 [Link to Video](https://drive.google.com/file/d/1ru4gVayziGQFJndI09Zoase68xKsT3wS/view)
 
