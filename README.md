@@ -1,13 +1,13 @@
-# Cardiovascular Disease Detection Using Deep Learning and Machine Learning Models on ECG Images
-## Group Members
+## Cardiovascular Disease Detection Using Deep Learning and Machine Learning Models on ECG Images
+# Group Members
 HITIK ADWANI - 22BDS029  
 LAKSHYA BABEL - 222BDS033  
 ABHIJIT SINGH - 22BDS054  
 SURYANSH AYUSH - 22BDS057
 
-## Overview
+# Overview
 This project implements a system for cardiovascular disease detection using ECG images. By leveraging advanced Machine Learning (ML) and Deep Learning (DL) techniques, including Convolutional Neural Networks (CNNs), the system automates early diagnosis and improves the accuracy of heart disease detection.
-## Features
+# Features
 
 1. Preprocessing Techniques:
     Grayscale conversion.
@@ -21,11 +21,11 @@ This project implements a system for cardiovascular disease detection using ECG 
 3. Deep Learning Model:
     Convolutional Neural Network (CNN) with state-of-the-art      layers for feature extraction and classification.
 
-## Dataset
+# Dataset
 
-The dataset contains ECG images representing both normal and abnormal heart activities. It is sourced from [Mendeley data](https://data.mendeley.com/datasets/gwbz3fsgp8/2).
+The dataset contains ECG images representing both normal and abnormal heart activities. It is sourced from [Mendeley](https://data.mendeley.com/datasets/gwbz3fsgp8/2).
 
-## Methodology
+# Methodology
 1. Data Preprocessing:
 Convert ECG images to grayscale.
 Apply Gaussian filtering and thresholding.
@@ -35,23 +35,21 @@ Train ML and CNN models using preprocessed ECG images.
 3. Evaluation:
 Assess model performance using metrics like Accuracy, Precision, Recall, and F1-Score.
 
-
 ## Project Structure
 .
 .
-├── Data_Preprocessing/
-│   ├── Data_original/
-│   │   ├── Infected
-│   │   ├── Normal
-│   └── Final_1D_images/
-│   |   ├── final_1D.csv
-│   └── processed_contours_images/
-│       ├── Infected
-│       ├── Normal
-└── colabs/
-    ├── Cardiovascular_Detection_DL.ipynb
-    └── Cardiovascular_Detection_ML.ipynb
-          
+├── Data_Preprocessing/  
+│   ├── Data_original/  
+│   │   ├── Infected  
+│   │   ├── Normal  
+│   └── Final_1D_images/  
+│   |   ├── final_1D.csv  
+│   └── processed_contours_images/  
+│       ├── Infected  
+│       ├── Normal  
+└── colabs/  
+    ├── Cardiovascular_Detection_DL.ipynb  
+    └── Cardiovascular_Detection_ML.ipynb  
 
 ## Conclusion
 
@@ -63,7 +61,7 @@ Future enhancements include extending the model to detect multiple heart conditi
 
 
 
-## Contributing
+# Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request to the [Cardiovascular_Detection repository](https://github.com/hitikadwani/CardioVascular_Detection.git).
 
